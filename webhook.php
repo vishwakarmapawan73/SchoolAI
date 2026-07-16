@@ -5,7 +5,7 @@ include "school_data.php";
 
 $data = json_decode(file_get_contents("php://input"), true);
 
-$logFile = __DIR__ . "/logs/chat.log";
+$logFile = __DIR__ . "chat.log";
 
 if (!is_dir(__DIR__ . "/logs")) {
     mkdir(__DIR__ . "/logs", 0777, true);
