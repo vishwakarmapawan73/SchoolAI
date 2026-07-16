@@ -1,6 +1,5 @@
 {
   "name": "schoolai/whatsapp-bot",
-  "description": "School AI WhatsApp Bot",
   "type": "project",
   "require": {}
 }
