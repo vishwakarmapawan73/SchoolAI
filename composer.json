@@ -1,5 +1,6 @@
 {
-    "name": "schoolai/schoolai",
-    "description": "School ERP with WhatsApp AI",
-    "require": {}
+  "name": "schoolai/whatsapp-bot",
+  "description": "School AI WhatsApp Bot",
+  "type": "project",
+  "require": {}
 }
